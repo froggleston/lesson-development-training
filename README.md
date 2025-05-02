@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8410625.svg)](https://doi.org/10.5281/zenodo.8410625)
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://slack-invite.carpentries.org/)
-[![Build and Deploy Site](https://github.com/carpentries/lesson-development-training/actions/workflows/docker_build_deploy.yaml/badge.svg)](https://github.com/carpentries/lesson-development-training/actions/workflows/docker_build_deploy.yaml)
+[![Build and Deploy Site](https://github.com/froggleston/lesson-development-training/actions/workflows/docker_build_deploy.yaml/badge.svg)](https://github.com/froggleston/lesson-development-training/actions/workflows/docker_build_deploy.yaml)
 
 
 Curriculum for a short (six half days) workshop teaching skills required for collaborative lesson development. 
