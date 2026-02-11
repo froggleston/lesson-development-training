@@ -79,3 +79,5 @@ instructors:
 profiles:
 
 analytics: carpentries
+
+sandpaper: carpentries/sandpaper@main
