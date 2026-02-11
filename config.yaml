@@ -80,4 +80,4 @@ profiles:
 
 analytics: carpentries
 
-sandpaper: carpentries/sandpaper@main
+sandpaper: carpentries/sandpaper@frog-cit-tests-1
